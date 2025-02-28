@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Disease Prediction</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Disease Prediction System</h1>
+    
+    <form method="POST" id="predictionForm">
+        <label for="symptoms">Enter Symptoms (comma-separated):</label>
+        <input type="text" id="symptoms" name="symptoms" value="{{ request.form['symptoms'] if request.form['symptoms'] else '' }}" required>
+        <button type="submit">Predict</button>
+        <button type="button" id="clearButton">Clear</button>
+    </form>
+
+    {% if warning %}
+        <p id="warning" class="warning" style="color: red;">⚠️ {{ warning }}</p>
+    {% endif %}
+
+    {% if result %}
+    <div id="resultContainer" class="result-container">
+        <h2>Predicted Disease: {{ result }}</h2>
+        <p><strong>Precautions:</strong> {{ precautions }}</p>
+        <p><strong>Medications:</strong> {{ medications }}</p>
+        <p><strong>Specialist to Consult:</strong> {{ specialist }}</p>
+    </div>
+    {% endif %}
+
+    <script>
+        document.getElementById("clearButton").addEventListener("click", function() {
+            document.getElementById("symptoms").value = "";  // Clear input field
+            document.getElementById("warning")?.remove();  // Remove warning if exists
+            document.getElementById("resultContainer")?.remove(); // Remove result if exists
+        });
+    </script>
+</body>
+</html>
