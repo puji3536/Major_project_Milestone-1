@@ -1,0 +1,66 @@
+Disease,Symptom1,Symptom2,Symptom3,Precautions,Medications,Specialist
+Diabetes,Frequent Urination,Increased Thirst,Fatigue,"Maintain a balanced diet, exercise regularly, monitor blood sugar levels, and avoid sugary foods.",Metformin,Endocrinologist
+Malaria,Fever,Headache,Chills,"Use mosquito nets, wear long-sleeved clothing, apply insect repellent, and avoid stagnant water.",Chloroquine,Infectious Disease Specialist
+Common Cold,Sneezing,Sore Throat,Cough,"Wash hands frequently, avoid close contact with sick individuals, stay hydrated, and get adequate rest.",Paracetamol,General Physician
+Hypertension,Headache,Dizziness,Blurred Vision,"Reduce salt intake, exercise regularly, avoid smoking and alcohol, and manage stress.",Lisinopril,Cardiologist
+Arthritis,Joint Pain,Stiffness,Swelling,"Maintain a healthy weight, exercise regularly, avoid repetitive motions, and use joint protection techniques.",Ibuprofen,Rheumatologist
+Gastritis,Stomach Pain,Nausea,Indigestion,"Avoid spicy and acidic foods, eat smaller meals, limit alcohol consumption, and manage stress.",Antacids,Gastroenterologist
+Migraine,Headache,Nausea,Sensitivity to Light,"Identify and avoid triggers like stress and certain foods, maintain a regular sleep schedule, and stay hydrated.",Sumatriptan,Neurologist
+Dengue,Fever,Muscle Pain,Rash,"Prevent mosquito bites by using repellents, wear protective clothing, and eliminate standing water around your home.",Paracetamol,Infectious Disease Specialist
+Bronchitis,Cough,Chest Discomfort,Fatigue,"Quit smoking, avoid irritants like dust and pollution, stay hydrated, and get plenty of rest.",Amoxicillin,Pulmonologist
+COVID-19,Fever,Cough,Shortness of breath,"Wear mask, sanitize hands, social distance","Antivirals, pain relievers",Pulmonologist
+Influenza (Flu),Fever,Body aches,Sore throat,"Flu vaccine, hygiene, avoid sick people","Antivirals, pain relievers",General Physician
+Tuberculosis,Cough (blood-tinged),Night sweats,Weight loss,"BCG vaccine, avoid infected individuals","Antibiotics (Rifampin, Isoniazid)",Pulmonologist
+Malaria,High fever,Chills,Sweating,"Use mosquito nets, antimalarial drugs","Chloroquine, Artemisinin",Infectious Disease Specialist
+Dengue Fever,High fever,Severe headache,Skin rash,"Mosquito control, ","Pain relievers, IV fluids",Infectious Disease Specialist
+Typhoid,High fever,Abdominal pain,Weakness,"Hygiene, avoid contaminated food/water",Antibiotics (Ciprofloxacin),General Physician
+Cholera,Severe diarrhea,Dehydration,Vomiting,"Clean water, sanitation","ORS, Antibiotics",Infectious Disease Specialist
+Pneumonia,Chest pain,Fever,Cough (mucus),"Vaccination, avoid smoking","Antibiotics, Antivirals",Pulmonologist
+Asthma,Shortness of breath,Wheezing,Chest tightness,"Avoid allergens, inhaler use","Bronchodilators, Steroids",Pulmonologist
+Bronchitis,Persistent cough,Mucus production,Fatigue,"Avoid smoke, stay hydrated","Cough suppressants, Antibiotics (if bacterial)",Pulmonologist
+Diabetes,Frequent urination,Excessive thirst,Fatigue,"Healthy diet, exercise","Insulin, Metformin",Endocrinologist
+Hypertension,Headache,Dizziness,Nosebleeds,"Low-salt diet, exercise","Beta-blockers, ACE inhibitors",Cardiologist
+Heart Disease,Chest pain,Shortness of breath,Fatigue,"Healthy lifestyle, cholesterol control","Blood thinners, Statins",Cardiologist
+Stroke,Numbness (one side),Confusion,Slurred speech,"Control BP, avoid smoking","Blood thinners, Clot busters",Neurologist
+Alzheimer's Disease,Memory loss,Confusion,Mood changes,"Mental exercises, healthy diet",Cholinesterase inhibitors,Neurologist
+Parkinson's Disease,Tremors,Stiff muscles,Slowed movement,"Exercise, avoid toxins",Dopamine medications,Neurologist
+Epilepsy,Seizures,Unconsciousness,Confusion,"Avoid triggers, stress management",Anticonvulsants,Neurologist
+Migraine,Severe headache,Nausea,Sensitivity to light,"Avoid triggers, stress management","Pain relievers, Triptans",Neurologist
+Osteoporosis,Bone fractures,Back pain,Weak grip strength,"Calcium, Vitamin D intake",Bisphosphonates,Orthopedic Specialist
+Appendicitis,Abdominal pain,Nausea,Fever,"Avoid fatty foods, hydration",Surgery,General Surgeon
+Hepatitis B,Jaundice,Fatigue,Abdominal pain,"Hepatitis B vaccine, avoid unclean needles","Antivirals, Liver protectants",Hepatologist
+Kidney Stones,Severe pain (side),Nausea,Painful urination,"Hydration, reduce oxalate foods","Pain relievers, Lithotripsy",Urologist
+Urinary Tract Infection (UTI),Frequent urination,Burning sensation,Cloudy urine,"Hygiene, drink water",Antibiotics,Urologist
+Anemia,Fatigue,Pale skin,Shortness of breath,"Iron-rich diet, Vitamin B12 intake","Iron supplements, B12",Hematologist
+Leprosy,Skin sores,Nerve damage,Numbness,"Early detection, hygiene",Antibiotics,Dermatologist
+Psoriasis,Red skin patches,Itching,Scaly skin,"Moisturizing, avoid triggers","Steroids, Immunosuppressants",Dermatologist
+Skin Cancer,Abnormal skin growth,Change in moles,Bleeding lesion,"Sunscreen, avoid UV exposure","Surgery, Chemotherapy",Oncologist
+HIV/AIDS,Weight loss,Recurrent infections,Fatigue,"Safe sex, avoid unclean needles",Antiretrovirals (ART),Infectious Disease Specialist
+Depression,Sadness,Loss of interest,Sleep disturbances,"Therapy, healthy lifestyle",Antidepressants,Psychiatrist
+Meningitis,Fever,Headache,Stiff Neck,"Vaccination, hygiene, avoid infected individuals","Antibiotics, Steroids","Neurologist, Infectious Disease Specialist"
+Typhoid Fever,High Fever,Abdominal Pain,Weakness,"Hygiene, avoid contaminated food/water",Antibiotics (Ciprofloxacin),General Physician
+Tuberculosis (TB),Cough (blood-tinged),Night Sweats,Weight Loss,"BCG vaccine, avoid infected individuals","Antibiotics (Rifampin, Isoniazid)",Pulmonologist
+Diphtheria,Sore Throat,Swollen Glands,Difficulty Breathing,"Vaccination, avoid close contact","Antibiotics, Antitoxins",Infectious Disease Specialist
+Measles,Rash,"High Fever	",Runny Nose,"MMR vaccine, hygiene","Fever reducers, Fluids",Pediatrician
+Chickenpox,Skin Rash,Itching,Fever,"Vaccination, avoid scratching","Antivirals, Antihistamines","Dermatologist, Pediatrician"
+Tetanus,Muscle Stiffness,Lockjaw,Difficulty Swallowing,"Vaccination, wound care",Tetanus Immunoglobulin,Infectious Disease Specialist
+Rabies,Fever,Hydrophobia,Hallucinations,"Vaccination, avoid animal bites",Rabies Immunoglobulin,"Neurologist, Infectious Disease Specialist"
+Leptospirosis,High Fever,Muscle Pain,Jaundice,Avoid contaminated water,"Doxycycline, Penicillin",Infectious Disease Specialist
+Chikungunya,Joint Pain,Fever,Rash,"Mosquito control, insect repellent","Pain relievers, Fluids",Infectious Disease Specialist
+Hepatitis A,Jaundice,Nausea,Fatigue,"Vaccination, clean water",Supportive care,Hepatologist
+Hepatitis C,Fatigue,Jaundice,Abdominal Pain,"Avoid unclean needles, safe sex",Antivirals,Hepatologist
+Liver Cirrhosis,Fatigue,Jaundice,Swelling,"Avoid alcohol, healthy diet, manage hepatitis","Diuretics, Beta-blockers",Hepatologist
+Cystic Fibrosis,Persistent Cough,Lung Infections,Poor Growth,"Genetic screening, physiotherapy, airway clearance","Mucolytics, Antibiotics",Pulmonologist
+Multiple Sclerosis (MS),Vision Problems,Muscle Weakness,Numbness,"Physical therapy, avoid overheating","Immunomodulators, Corticosteroids",Neurologist
+Polio,Fever,Muscle Weakness,Paralysis,"Polio vaccine, hygiene",Supportive therapy,"Neurologist, Infectious Disease Specialist"
+Ebola Virus Disease,High Fever,Bleeding,Organ Failure,"Avoid infected individuals, protective clothing","Supportive care, Antivirals",Infectious Disease Specialist
+Zika Virus,Rash,Fever,Joint Pain,"Mosquito control, avoid travel to outbreak areas","Pain relievers, Fluids",Infectious Disease Specialist
+Anxiety Disorder,Excessive Worry,Restlessness,Rapid Heart Rate,"Therapy, meditation","Anxiolytics, Antidepressants",Psychiatrist
+Schizophrenia,Hallucinations,Disorganized Speech,Delusions,"Early intervention, therapy",Antipsychotics,Psychiatrist
+Lupus,Fatigue,Joint Pain,Skin Rash,"Avoid triggers, sun protection","Immunosuppressants, Steroids",Rheumatologist
+Celiac Disease,Abdominal Pain,Diarrhea,Weight Loss,Gluten-free diet,Dietary management,Gastroenterologist
+Crohn’s Disease,Abdominal Pain,Diarrhea,Fatigue,"Healthy diet, reduce stress","Anti-inflammatories, Biologics",Gastroenterologist
+Ulcerative Colitis,Bloody Diarrhea,Abdominal Pain,Fatigue,"Avoid trigger foods, medication","Anti-inflammatories, Immunosuppressants",Gastroenterologist
+Parkinson’s Disease,Tremors,Stiff Muscles,Slowed Movement,"Exercise, avoid toxins",Dopamine Medications,Neurologist
+Gout,Joint Pain,Swelling,Redness,"Avoid alcohol, reduce purine-rich foods","Anti-inflammatories, Uric Acid Reducers",Rheumatologist
+Varicella (Shingles),Painful Rash,Blisters,Burning Sensation,"Vaccination, avoid stress","Antivirals, Pain Relievers","Dermatologist, Neurologist"
